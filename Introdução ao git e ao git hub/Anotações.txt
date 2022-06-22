@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "O QUE FOI COMMITADO"
+
+git push origin main
